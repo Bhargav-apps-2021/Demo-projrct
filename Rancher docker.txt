@@ -1,0 +1,8 @@
+https://github.com/devops-phani/rancher-docker-compose/blob/main/docker-compose.yaml
+
+
+
+https://rancher.com/docs/rancher/v2.5/en/installation/other-installation-methods/single-node-docker/
+
+
+https://rancher.com/docs/rancher/v2.5/en/installation/other-installation-methods/single-node-docker/
